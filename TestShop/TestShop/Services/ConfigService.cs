@@ -24,9 +24,9 @@ namespace TestShop.Services
 
         public uint? CartCapacity { get; }
 
-        public uint? EUR { get; }
+        public double? EUR { get; }
 
-        public uint? USD { get; }
+        public double? USD { get; }
 
         private void Init()
         {

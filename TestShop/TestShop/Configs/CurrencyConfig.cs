@@ -2,8 +2,8 @@
 {
     public class CurrencyConfig
     {
-        public uint? USD { get; set; }
+        public double? USD { get; set; }
 
-        public uint? EUR { get; set; }
+        public double? EUR { get; set; }
     }
 }
